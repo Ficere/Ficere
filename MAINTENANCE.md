@@ -1,8 +1,8 @@
 # Profile maintenance
 
-The profile title is carried by the capsule-render banner: `AI × SynBio` with `Protein design · Scientific systems`. The original star-chart/protein artwork remains the first visual, and the approved typewriter sequence now lives inside its empty left field. The standalone typing strip is kept as a source asset but is no longer linked from README.
+The profile title is carried by the capsule-render banner: `AI × SynBio` with `Protein design · Scientific systems`. The original star-chart/protein artwork remains the first visual, and the only overlay motion is the approved solid-color typewriter sequence in its empty left field. The standalone typing strip is kept as a source asset but is no longer linked from README.
 
-The embedded hero typewriter uses four solid-color lines: “From atoms to assays”, “Design → validate → learn”, “Protein design → data feedback”, and “BaZi, but schema-validated”. It uses a 12 second clip-reveal loop with a solid cyan cursor, with a static first-line fallback when reduced motion is requested. Desktop and mobile use different coordinates so the text stays inside the dark left region.
+The embedded hero typewriter uses four solid-color lines: “From atoms to assays”, “Design → validate → learn”, “Protein design → data feedback”, and “BaZi, but schema-validated”. It uses a 10 second clip-reveal loop with a solid cyan cursor, with a static first-line fallback when reduced motion is requested. Desktop and mobile use different coordinates so the text stays inside the dark left region.
 
 The capsule banner has dark and light variants for GitHub theme matching, plus separate mobile dimensions. The visible subtitle is intentionally short to keep the left-aligned title and subtitle inside the safe area. The capsule assets are self-hosted outputs based on capsule-render; the original artwork is not used as a capsule background.
 

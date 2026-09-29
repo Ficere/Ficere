@@ -24,7 +24,7 @@ jobs:
         with:
           github_user_name: Ficere
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23d7b56e&color_dots=%23101722,%23244a52,%233c8083,%2371c9c2,%23b8fff3
+            dist/github-contribution-grid-snake.svg?color_snake=%23b08d57&color_dots=%23ebedf0,%23d8eee9,%23a7d9cf,%2373bdb3,%23549791
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23d7b56e&color_dots=%23070b12,%23142632,%23265a62,%2371c9c2,%23b8fff3
 
       - name: Publish SVGs to output branch
