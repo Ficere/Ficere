@@ -1,8 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,55:123B5D,100:7A5C2E&height=220&section=header&text=Lvjun%20Guo&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20%C3%97%20Synthetic%20Biology%20%C2%B7%20Protein%20Design%20%C2%B7%20Scientific%20Platforms&descSize=17&descAlignY=61&animation=fadeIn" alt="Lvjun Guo header" />
+<img width="100%" src="./assets/hero-archive.png" alt="A Victorian occult observatory crossed with a protein research laboratory" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=7DE2D1&center=true&vCenter=true&width=820&height=54&lines=%E7%99%BD%E5%A4%A9%E8%AE%BE%E8%AE%A1%E8%9B%8B%E7%99%BD%EF%BC%8C%E6%99%9A%E4%B8%8A%E7%A0%94%E7%A9%B6+AI+%E4%BC%9A%E4%B8%8D%E4%BC%9A%E7%AE%97%E5%91%BD%E3%80%82;Protein+design+%E2%86%92+experimental+validation+%E2%86%92+data+feedback;Turning+frontier+models+into+reproducible+R%26D+systems)](https://git.io/typing-svg)
+# 白天设计蛋白，晚上研究 AI 会不会算命。
+
+**AI × Synthetic Biology · Protein Design · Scientific Platforms**
+
+我负责把前沿模型、原子级工具和实验验证接成可以被团队复用的研发能力。
+
+<br />
 
 ![Focus](https://img.shields.io/badge/focus-AI%20%C3%97%20Synthetic%20Biology-0E7490?style=for-the-badge&labelColor=0B1020)
 ![Domain](https://img.shields.io/badge/domain-Protein%20%26%20Enzyme%20Engineering-2563EB?style=for-the-badge&labelColor=0B1020)
@@ -10,13 +16,15 @@
 
 </div>
 
-## 🧬 What I Do
+## 🕯️ The Dossier
 
 I lead R&D at the intersection of **AI and synthetic biology**, building platforms for protein and enzyme design, validation, and delivery.
 
 My work spans **atom-level modeling tools**, frontier protein models, sequence design and evaluation, scientific workflow integration, and the wet–dry loop that connects computational design with experiments and data feedback.
 
 Today, my focus is turning hard-won technical insight into a capability that teams and partners can use repeatedly: more standardized, more reproducible, and easier to deliver.
+
+> I still go deep when the problem demands it. My job now is to turn that depth into a system other people can run, inspect, and improve.
 
 ```yaml
 focus: "AI × Synthetic Biology"
@@ -26,20 +34,20 @@ role: "R&D Lead"
 based_in: "Beijing"
 ```
 
-## 🧪 What I Build
+## ⚗️ The Workshop
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Protein Design
+### 🧬 Protein Design
 
 Design workflows for proteins and enzymes, from sequence-level reasoning to structure-aware and atom-level computational tools.
 
 </td>
 <td width="50%" valign="top">
 
-### Frontier Models
+### ✦ Frontier Models
 
 Development and evaluation of state-of-the-art models for biological sequence, structure, and design problems.
 
@@ -48,14 +56,14 @@ Development and evaluation of state-of-the-art models for biological sequence, s
 <tr>
 <td width="50%" valign="top">
 
-### Wet–Dry Loops
+### 🜁 Wet–Dry Loops
 
 Connecting computational hypotheses, experimental validation, and feedback data into an iterative design system.
 
 </td>
 <td width="50%" valign="top">
 
-### R&D Platforms
+### 🜃 R&amp;D Platforms
 
 Turning complex research workflows into reliable, reproducible capabilities for teams and collaborators.
 
@@ -63,40 +71,68 @@ Turning complex research workflows into reliable, reproducible capabilities for 
 </tr>
 </table>
 
-## 🔁 How I Think About the Loop
+## 🔭 How I Think About the Loop
 
-```text
-Hypothesis
-    ↓
-Molecular Design
-    ↓
-Computational Evaluation
-    ↓
-Experimental Validation
-    ↓
-Data Feedback
-    └──────────────→ next design cycle
-```
+<div align="center">
+
+<img width="100%" src="./assets/research-loop.svg" alt="Animated design cycle: hypothesis, molecular design, computational evaluation, experimental validation, data feedback, and the next design cycle" />
+
+</div>
 
 The goal is not only to generate a promising molecule. It is to make the next design cycle better, easier to reproduce, and easier for another person to run.
+
+<details>
+<summary><strong>Open the instrument panel</strong></summary>
+
+| Layer | Question | Artifact |
+|---|---|---|
+| Hypothesis | What should be true? | design brief / target profile |
+| Molecular design | What could satisfy it? | sequences / structures / candidates |
+| Evaluation | Which candidates deserve attention? | scores / filters / ranking |
+| Experiment | What survives contact with reality? | assays / measurements |
+| Feedback | What did the system learn? | calibrated data / next hypothesis |
+
+</details>
 
 ## 🔬 Selected Public Work
 
 Most of the core systems I work on are not public. The projects below show the same habits in a form that can be shared: explicit interfaces, structured outputs, validation, and tools that other agents or people can actually use.
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 ### 🧭 [Pipeline Assessment](https://github.com/Ficere/pipeline-assessment)
 
 An Agent Skill for structured pharmaceutical pipeline and asset assessment.
 
+`Agent Skill` · `Pharma` · `Evaluation`
+
+</td>
+<td width="33%" valign="top">
+
 ### ⚛️ [DummyDocking](https://github.com/Ficere/DummyDocking)
 
-A compact docking workflow template for making computational structure-based work easier to inspect and reproduce.
+A compact docking workflow template for making structure-based work easier to inspect and reproduce.
+
+`Docking` · `Workflow` · `Reproducibility`
+
+</td>
+<td width="33%" valign="top">
+
+### 🔮 [tianji](https://github.com/Ficere/tianji)
+
+An all-in-one fortune-analysis Agent Skill with structured outputs, validation, and static reports.
+
+`Agent Skill` · `Schemas` · `Curiosity`
+
+</td>
+</tr>
+</table>
 
 ## 🌙 After Hours
 
-**白天设计蛋白，晚上研究 AI 会不会算命。**
-
-I like turning questions that are slightly outside my day job into working tools. For example, [tianji](https://github.com/Ficere/tianji) is an all-in-one fortune-analysis Agent Skill that combines traditional Chinese systems, Western astrology, structured outputs, validation, and static report generation.
+I like turning questions that are slightly outside my day job into working tools. [tianji](https://github.com/Ficere/tianji) is my current favorite example: a bridge between traditional Chinese systems, Western astrology, structured computation, and agent workflows.
 
 I believe in experimental data. I also allow curiosity to occasionally wander off course.
 
@@ -118,10 +154,11 @@ I believe in experimental data. I also allow curiosity to occasionally wander of
 
 ## 🤝 Collaboration
 
-I am interested in thoughtful conversations and collaborations around **AI for biology, protein and enzyme engineering, scientific infrastructure, agentic workflows, and reproducible R&D**.
+I am interested in thoughtful conversations and collaborations around **AI for biology, protein and enzyme engineering, scientific infrastructure, agentic workflows, and reproducible R&amp;D**.
 
 <div align="center">
 
 <a href="https://github.com/Ficere"><img src="https://img.shields.io/badge/GitHub-Ficere-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
+
