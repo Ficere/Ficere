@@ -1,6 +1,9 @@
 <div align="center">
 
-![A Victorian occult observatory crossed with a protein research laboratory](./assets/hero-archive.png)
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/hero-archive-mobile.png" />
+  <img src="./assets/hero-archive.png" alt="A Victorian occult observatory crossed with a protein research laboratory" />
+</picture>
 
 # AI × Synthetic Biology
 
