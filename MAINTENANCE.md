@@ -6,4 +6,4 @@ The Day section uses the restored desktop and mobile research-loop SVGs. Their o
 
 `.github/workflows/snake.yml` runs every 12 hours, on pushes to `main`, and through `workflow_dispatch`. It writes light and dark SVGs to the `output` branch with brass/cyan colors. The output branch is the live animation source; the checked-in `assets/snake-fallback*.svg` files are the last known good fallback if the branch is temporarily unavailable.
 
-Before changing the SynAster sentence, verify the public site and confirm the intended personal role. The README currently links to it as a public entry point without claiming ownership or authorship.
+SynAster Hub is described on its public skill manifest as a protein- and RNA-design skill bundle for AI agents. The README uses that capability description without claiming ownership or a personal role.

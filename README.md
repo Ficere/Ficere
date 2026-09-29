@@ -26,7 +26,7 @@ I lead R&amp;D at the intersection of **AI and synthetic biology**, working acro
 
 The through-line is a wet–dry loop: connect computational design to experiments and data feedback, then turn hard-won technical depth into systems a team can reuse.
 
-Public entry point: [SynAster](https://syn-aster.bohrium.com/).
+Public entry point: [SynAster Hub](https://syn-aster.bohrium.com/) — a protein- and RNA-design skill bundle for AI agents.
 
 <div align="center">
 
