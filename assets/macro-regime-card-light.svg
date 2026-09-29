@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 210" role="img" aria-labelledby="title desc">
+  <title id="title">Macro regime mapping side quest</title>
+  <desc id="desc">A small animated card for macro regime mapping, signals, cycles, and structured outputs.</desc>
+  <defs>
+    <style>@media (prefers-reduced-motion: reduce) { .motion { display: none; } }</style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f2e8"/><stop offset="1" stop-color="#eee6d6"/></linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="4" y="4" width="712" height="202" rx="18" fill="url(#bg)" stroke="#9a6b2f" stroke-width="2"/>
+  <rect x="13" y="13" width="694" height="184" rx="13" fill="none" stroke="#6f4d28" stroke-width="1.5" opacity=".78"/>
+  <g opacity=".45" stroke="#d6ccba" stroke-width="1"><path d="M40 62H250M40 88H250M40 114H250M40 140H250M40 166H250M40 62V166M82 62V166M124 62V166M166 62V166M208 62V166M250 62V166"/></g>
+  <path d="M40 146 C76 136 94 89 126 108 S172 151 203 95 S228 83 250 67" fill="none" stroke="#187b80" stroke-width="2.3" opacity=".85"/>
+  <g class="motion" fill="#187b80" filter="url(#glow)"><circle cx="40" cy="146" r="2.5"><animate attributeName="cx" values="40;250;40" dur="7s" repeatCount="indefinite"/><animate attributeName="cy" values="146;67;146" dur="7s" repeatCount="indefinite"/></circle><circle cx="126" cy="108" r="2.5" opacity=".4"><animate attributeName="opacity" values=".2;1;.2" dur="4s" repeatCount="indefinite"/></circle></g>
+  <text x="292" y="73" fill="#6f4d28" font-family="Georgia,serif" font-size="22" letter-spacing="3">MACRO REGIME MAPPING</text>
+  <text x="292" y="106" fill="#6f4d28" font-family="Georgia,serif" font-size="18" letter-spacing="3">SIDE QUEST</text>
+  <text x="292" y="143" fill="#526a6c" font-family="monospace" font-size="15">Signals, cycles, and structured outputs.</text>
+  <text x="292" y="169" fill="#526a6c" font-family="monospace" font-size="13">A small lab for making regime shifts inspectable.</text>
+  <path class="motion" d="M30 190 H690" stroke="#187b80" stroke-width="1.7" stroke-dasharray="3 8" opacity=".55"><animate attributeName="stroke-dashoffset" from="0" to="-120" dur="6s" repeatCount="indefinite"/></path>
+</svg>

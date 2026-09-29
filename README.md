@@ -1,21 +1,19 @@
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/hero-archive-mobile.png" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-archive.png" />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/hero-archive-animated-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-archive-animated.svg" />
   <source media="(max-width: 600px)" srcset="./assets/hero-archive-animated-mobile.svg" />
   <img src="./assets/hero-archive-animated.svg" alt="A star chart machine processing a glowing protein structure" />
 </picture>
 </p>
 
-<h1 align="center">AI × Synthetic Biology</h1>
-
-<p align="center"><strong>Designing proteins by day, researching whether AI can tell fortunes by night.</strong></p>
-<p align="center"><strong>Building reproducible R&amp;D systems for protein design.</strong></p>
-
 <p align="center">
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/hero-typing-mobile.svg" />
-  <img src="./assets/hero-typing.svg" alt="Animated notes from atoms to assays, validation, and a JSON-schema fortune-telling side quest" />
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/capsule-hero-mobile.svg" />
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/capsule-hero-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/capsule-hero.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/capsule-hero-light.svg" />
+  <img width="100%" src="./assets/capsule-hero-light.svg" alt="AI times SynBio, protein design, and scientific systems" />
 </picture>
 </p>
 
@@ -29,50 +27,47 @@ Public entry point: [SynAster Hub](https://syn-aster.bohrium.com/) — a protein
 
 <div align="center">
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/research-loop-mobile.svg" />
-  <img width="100%" src="./assets/research-loop.svg" alt="Research loop from hypothesis to design, evaluation, experiment, feedback, and the next cycle" />
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/research-loop-mobile.svg" />
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/research-loop-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/research-loop.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/research-loop-light.svg" />
+  <img width="100%" src="./assets/research-loop-light.svg" alt="Research loop from hypothesis to design, evaluation, experiment, feedback, and the next cycle" />
 </picture>
 </div>
 
 **Small public tools:** [Pipeline Assessment](https://github.com/Ficere/pipeline-assessment) for structured pipeline review · [DummyDocking](https://github.com/Ficere/DummyDocking) for inspectable docking workflows.
 
-<details>
-<summary>Alternative capsule-render banner prototype</summary>
-
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/capsule-hero-prototype-mobile.svg" />
-  <img width="100%" src="./assets/capsule-hero-prototype.svg" alt="Capsule-render-inspired dark wave banner with AI times SynBio and protein design text" />
-</picture>
-
-This is a self-hosted prototype generated from [capsule-render](https://github.com/kyechan99/capsule-render). The original star-chart instrument remains the default hero while this alternative is evaluated.
-</details>
-
 ## 🌙 Night
 
 <a href="https://github.com/Ficere/tianji">
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/tianji-card-mobile.svg" />
-  <img width="100%" src="./assets/tianji-card.svg" alt="Tianji after-hours card: BaZi, but schema-validated" />
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/tianji-card-mobile.svg" />
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/tianji-card-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tianji-card.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/tianji-card-light.svg" />
+  <img width="100%" src="./assets/tianji-card-light.svg" alt="Tianji after-hours card: BaZi, but schema-validated" />
 </picture>
 </a>
 
-**[macro-regime-mapping](https://github.com/Ficere/macro-regime-mapping)** — another small side quest for turning signals into structured outputs.
+<a href="https://github.com/Ficere/macro-regime-mapping">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/macro-regime-card-mobile.svg" />
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/macro-regime-card-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/macro-regime-card.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/macro-regime-card-light.svg" />
+  <img width="100%" src="./assets/macro-regime-card-light.svg" alt="Macro regime mapping side quest: signals, cycles, and structured outputs" />
+</picture>
+</a>
 
 ## ✦ Focus Constellation
 
 <p align="center">
-  <img width="100%" src="./assets/generated/tech-stack.svg" alt="Curated focus sectors for protein and enzyme design, atom-level tools, and wet-dry research systems" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/tech-stack.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/generated/tech-stack-light.svg" />
+  <img width="100%" src="./assets/generated/tech-stack-light.svg" alt="Curated focus sectors for protein and enzyme design, atom-level tools, and wet-dry research systems" />
+</picture>
 </p>
-
-The constellation is generated from a small, curated configuration. It describes focus areas without exposing private project names or internal metrics.
-
-<details>
-<summary>Generated project constellation</summary>
-
-<p align="center">
-  <img width="100%" src="./assets/generated/projects-constellation.svg" alt="Generated constellation of selected public projects" />
-</p>
-</details>
 
 ## 🐍 Activity
 
@@ -84,15 +79,15 @@ The constellation is generated from a small, curated configuration. It describes
 </picture>
 </div>
 
-<details>
-<summary>Open the contribution observatory</summary>
-
 <p align="center">
-  <img width="100%" src="./assets/profile-3d-contrib/profile-night-view.svg" alt="Three-dimensional GitHub contribution observatory" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-3d-contrib/profile-green.svg" />
+  <img width="100%" src="./assets/profile-3d-contrib/profile-green.svg" alt="Three-dimensional GitHub contribution observatory" />
+</picture>
 </p>
 
-The 3D view is generated daily by a pinned GitHub Action. The checked-in SVG stays available while the first run or a later refresh is pending.
-</details>
+The contribution observatory is refreshed daily by GitHub Actions and remains visible without opening a collapsed section.
 
 ## Contact
 

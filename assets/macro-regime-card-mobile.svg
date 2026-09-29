@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 190" role="img" aria-labelledby="title desc">
+  <title id="title">Macro regime mapping side quest</title>
+  <desc id="desc">A small animated card for macro regime mapping, signals, cycles, and structured outputs.</desc>
+  <defs>
+    <style>@media (prefers-reduced-motion: reduce) { .motion { display: none; } }</style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b111c"/><stop offset="1" stop-color="#17101b"/></linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="4" y="4" width="352" height="182" rx="16" fill="url(#bg)" stroke="#5f472e" stroke-width="2"/>
+  <rect x="12" y="12" width="336" height="166" rx="11" fill="none" stroke="#f0d49a" stroke-width="1" opacity=".65"/>
+  <g opacity=".45" stroke="#24343c" stroke-width="1"><path d="M38 65H160M38 88H160M38 111H160M38 134H160M38 65V134M68 65V134M98 65V134M128 65V134M160 65V134"/></g>
+  <path d="M38 122 C62 116 70 91 91 101 S121 126 137 94 S150 80 160 73" fill="none" stroke="#8ff5df" stroke-width="2" opacity=".8"/>
+  <g class="motion" fill="#8ff5df" filter="url(#glow)"><circle cx="38" cy="122" r="2"><animate attributeName="cx" values="38;160;38" dur="7s" repeatCount="indefinite"/><animate attributeName="cy" values="122;73;122" dur="7s" repeatCount="indefinite"/></circle><circle cx="91" cy="101" r="2" opacity=".4"><animate attributeName="opacity" values=".2;1;.2" dur="4s" repeatCount="indefinite"/></circle></g>
+  <text x="180" y="48" fill="#f0d49a" font-family="Georgia,serif" font-size="15" letter-spacing="2">MACRO REGIME MAPPING</text>
+  <text x="180" y="74" fill="#f0d49a" font-family="Georgia,serif" font-size="14">SIDE QUEST</text>
+  <text x="180" y="111" fill="#9fb8b7" font-family="monospace" font-size="12">Signals, cycles,</text>
+  <text x="180" y="130" fill="#9fb8b7" font-family="monospace" font-size="12">structured outputs.</text>
+  <path class="motion" d="M28 158 H332" stroke="#8ff5df" stroke-width="1.5" stroke-dasharray="3 8" opacity=".55"><animate attributeName="stroke-dashoffset" from="0" to="-90" dur="6s" repeatCount="indefinite"/></path>
+</svg>

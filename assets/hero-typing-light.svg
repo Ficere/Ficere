@@ -2,8 +2,8 @@
   <title id="title">Typing research notes</title>
   <desc id="desc">A typewriter-style sequence about protein design, validation, data feedback, and an after-hours schema-validated fortune experiment.</desc>
   <style>
-    text { fill: #7de2d1; font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 18px; font-weight: 600; letter-spacing: 0.2px; }
-    .cursor { stroke: #d7b56e; stroke-width: 2; }
+    text { fill: #24777b; font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 18px; font-weight: 600; letter-spacing: 0.2px; }
+    .cursor { stroke: #9a6b2f; stroke-width: 2; }
     .fallback { display: none; }
     @media (prefers-reduced-motion: reduce) { .motion { display: none; } .fallback { display: block; } }
   </style>
