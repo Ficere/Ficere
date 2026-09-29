@@ -8,23 +8,17 @@
 
 <p><strong>白天设计蛋白，晚上研究 AI 会不会算命。</strong></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=950&color=7DE2D1&center=true&vCenter=true&width=420&height=44&lines=From+atoms+to+assays;Design+%E2%86%92+validate+%E2%86%92+learn;Protein+design+%E2%86%92+data+feedback;Building+reproducible+R%26D+systems)](https://git.io/typing-svg)
-
-![Focus](https://img.shields.io/badge/focus-AI%20%C3%97%20Synthetic%20Biology-0E7490?style=for-the-badge&labelColor=0B1020)
-<br />
-![Domain](https://img.shields.io/badge/domain-Protein%20%26%20Enzyme%20Eng.-2563EB?style=for-the-badge&labelColor=0B1020)
-<br />
-![Role](https://img.shields.io/badge/role-R%26D%20Lead-8B5CF6?style=for-the-badge&labelColor=0B1020)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=7DE2D1&center=true&vCenter=true&width=420&height=44&lines=From+atoms+to+assays;Design+%E2%86%92+validate+%E2%86%92+learn;BaZi%2C+but+with+JSON+Schema;Curiosity+has+no+office+hours)](https://git.io/typing-svg)
 
 </div>
 
-## 🧬 关于我 · About Me
+## About Me · 关于我
 
 I lead R&amp;D at the intersection of **AI and synthetic biology**, building systems for protein and enzyme design, validation, and delivery.
 
-My work spans atom-level modeling tools, biological sequence and structure models, scientific workflow integration, and the wet–dry loop that connects computational design with experiments and data feedback.
+I work across atom-level molecular tools, biological sequence and structure models, sequence design and evaluation, scientific workflow integration, and wet–dry R&amp;D loops that connect computation to experiments.
 
-Today, I focus on turning deep technical work into reproducible capabilities that teams and collaborators can use repeatedly.
+Today, I focus on making that depth reusable: turning hard-won research into reproducible systems that teams and collaborators can run repeatedly.
 
 <details>
 <summary><strong>中文简介 · Chinese note</strong></summary>
@@ -33,72 +27,23 @@ Today, I focus on turning deep technical work into reproducible capabilities tha
 
 </details>
 
-```yaml
-focus: "AI × Synthetic Biology"
-domain: "Protein and Enzyme Engineering"
-work: "Design → Validation → Data Feedback → Iteration"
-role: "R&D Lead"
-```
+## Selected Work · 公开项目
 
-## 🛠️ 研发方向 · Research Areas
-
-- **Protein & enzyme design** — sequence, structure, function, and atom-level tooling.
-- **Biological models** — development and evaluation for sequence, structure, and design problems.
-- **Wet–dry workflows** — computational design, experimental validation, and data feedback.
-- **Scientific platforms** — reproducible infrastructure for teams and collaborators.
-
-## 🔁 研发闭环 · R&amp;D Loop
-
-<div align="center">
-
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/research-loop-mobile.svg" />
-  <img width="100%" src="./assets/research-loop.svg" alt="Research loop: hypothesis, molecular design, computational evaluation, experimental validation, data feedback, and the next design cycle" />
-</picture>
-
-</div>
-
-The goal is not only to generate a promising molecule, but to make the next design cycle faster, more reliable, and easier to reproduce.
-
-<details>
-<summary><strong>Loop details · 查看流程细节</strong></summary>
-
-| Stage | Question | Artifact |
-|---|---|---|
-| Hypothesis | What should be true? | design brief / target profile |
-| Molecular Design | What could satisfy it? | sequences / structures / candidates |
-| Evaluation | Which candidates deserve attention? | scores / filters / ranking |
-| Experiment | What survives contact with reality? | assays / measurements |
-| Feedback | What did the system learn? | calibrated data / next hypothesis |
-
-</details>
-
-## 🔬 公开项目 · Selected Public Work
+### Day · 白天
 
 - **[Pipeline Assessment](https://github.com/Ficere/pipeline-assessment)** — An Agent Skill for structured pharmaceutical pipeline and asset assessment.
 - **[DummyDocking](https://github.com/Ficere/DummyDocking)** — A compact docking workflow template for inspectable, reproducible structure-based work.
+
+### Night · 夜间
+
 - **[macro-regime-mapping](https://github.com/Ficere/macro-regime-mapping)** — A small research tool for turning macroeconomic signals into structured, explainable outputs.
+- **[tianji](https://github.com/Ficere/tianji)** — BaZi, but with JSON Schema validation. Reproducible fortune-telling with traditional Chinese systems, Western astrology, structured computation, and static reports.
 
-## 🌙 业余实验室 · After Hours
-
-After hours, I build tools for questions that sit outside my day job. **[tianji](https://github.com/Ficere/tianji)** is an all-in-one fortune-analysis Agent Skill combining traditional Chinese systems, Western astrology, structured computation, schema validation, and static report generation.
-
-## 🧭 工作原则 · Principles
-
-> Let experimental data decide the next design; let curiosity decide the next question.
->
-> Complex research becomes a team capability when it can be reproduced.
-
-## 📊 GitHub 活动 · GitHub Activity
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ficere/Ficere/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ficere/Ficere/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ficere/Ficere/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
-## 🤝 合作与交流 · Collaboration
+## Collaboration · 合作交流
 
 I am open to conversations around **AI for biology, protein and enzyme engineering, scientific infrastructure, agentic workflows, and reproducible R&amp;D**. The simplest way to start is through [GitHub](https://github.com/Ficere) or an issue in the relevant public repository.
+
+<hr />
+
+<p align="center"><em>Let experimental data decide the next design; let curiosity decide the next question.</em></p>
+<p align="center"><em>Valar Morghulis — all candidates must die in the assay. Survivors go to the next round.</em></p>
