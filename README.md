@@ -11,7 +11,7 @@
 
 <p><strong>白天设计蛋白，晚上研究 AI 会不会算命。</strong></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=7DE2D1&center=true&vCenter=true&width=420&height=44&lines=From+atoms+to+assays;Design+%E2%86%92+validate+%E2%86%92+learn;BaZi%2C+but+with+JSON+Schema;Curiosity+has+no+office+hours)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1100&color=7DE2D1&center=true&vCenter=true&width=340&height=40&lines=From+atoms+to+assays;Design+%E2%86%92+validate+%E2%86%92+learn;BaZi%2C+but+with+JSON+Schema;Curiosity+has+no+office+hours)](https://git.io/typing-svg)
 
 </div>
 
