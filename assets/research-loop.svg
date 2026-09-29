@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">The Design Cycle</title>
+  <desc id="desc">A brass astronomical diagram showing a closed loop from hypothesis through molecular design, computational evaluation, experimental validation, and data feedback.</desc>
+  <defs>
+    <style>@media (prefers-reduced-motion: reduce) { .motion { display: none; } }</style>
+    <radialGradient id="bg" cx="52%" cy="48%" r="72%">
+      <stop offset="0" stop-color="#172536"/>
+      <stop offset="0.55" stop-color="#0d1622"/>
+      <stop offset="1" stop-color="#070b12"/>
+    </radialGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0d49a"/>
+      <stop offset="0.45" stop-color="#a7834c"/>
+      <stop offset="1" stop-color="#5d4328"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b5fff5"/>
+      <stop offset="0.5" stop-color="#4ed2d0"/>
+      <stop offset="1" stop-color="#227c9a"/>
+    </linearGradient>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#af8b51"/>
+    </marker>
+    <pattern id="grain" width="58" height="58" patternUnits="userSpaceOnUse">
+      <circle cx="5" cy="11" r="0.6" fill="#c3d5d5" opacity="0.13"/>
+      <circle cx="31" cy="45" r="0.5" fill="#d3c193" opacity="0.1"/>
+      <circle cx="49" cy="21" r="0.45" fill="#8da9ad" opacity="0.13"/>
+    </pattern>
+    <path id="cyclePath" d="M600 110 C850 110 1040 190 985 330 C930 470 710 515 600 465 C435 530 188 440 214 292 C235 170 400 110 600 110" fill="none"/>
+  </defs>
+
+  <rect width="1200" height="560" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="560" rx="18" fill="url(#grain)" opacity="0.62"/>
+
+  <g fill="#dae7dc" opacity="0.7">
+    <circle cx="76" cy="83" r="1.4"/><circle cx="152" cy="430" r="1"/><circle cx="1045" cy="92" r="1.2"/>
+    <circle cx="1102" cy="432" r="1.5"/><circle cx="1020" cy="508" r="0.8"/><circle cx="324" cy="60" r="0.9"/>
+    <circle cx="862" cy="60" r="0.7"/><circle cx="436" cy="498" r="1.2"/>
+  </g>
+
+  <circle cx="1030" cy="82" r="51" fill="#832e3d" opacity="0.18" filter="url(#soft)"/>
+  <circle cx="1030" cy="82" r="30" fill="#1b1219" stroke="#9c4a50" stroke-width="2"/>
+  <path d="M1006 65 A30 30 0 0 1 1051 102 A30 30 0 0 0 1006 65Z" fill="#bb5960" opacity="0.55"/>
+
+  <text x="58" y="64" fill="#d7c18c" font-family="Georgia,serif" font-size="20" letter-spacing="3.2">THE DESIGN CYCLE</text>
+  <text x="58" y="91" fill="#89a3a9" font-family="monospace" font-size="14" letter-spacing="1.2">A CLOSED LOOP FOR MOLECULAR R&amp;D</text>
+
+  <path d="M600 110 C850 110 1040 190 985 330 C930 470 710 515 600 465 C435 530 188 440 214 292 C235 170 400 110 600 110" fill="none" stroke="#82683e" stroke-width="1.5" opacity="0.72" marker-end="url(#arrow)"/>
+  <path d="M600 127 C820 127 1005 194 956 324 C912 438 711 492 600 446 C448 501 224 426 241 300 C258 192 407 127 600 127" fill="none" stroke="#d2af70" stroke-width="1" stroke-dasharray="3 10" opacity="0.55"/>
+
+  <g stroke="#ae8950" fill="#111a26" stroke-width="1.7">
+    <circle cx="600" cy="103" r="54"/><circle cx="1000" cy="194" r="54"/>
+    <circle cx="930" cy="424" r="54"/><circle cx="600" cy="482" r="54"/>
+    <circle cx="270" cy="424" r="54"/><circle cx="200" cy="194" r="54"/>
+  </g>
+
+  <g fill="#e7d6a9" font-family="Georgia,serif" text-anchor="middle">
+    <text x="600" y="98" font-size="20">HYPOTHESIS</text><text x="600" y="122" font-family="monospace" font-size="12" fill="#93b0b0">signal / question</text>
+    <text x="1000" y="190" font-size="20">DESIGN</text><text x="1000" y="214" font-family="monospace" font-size="12" fill="#93b0b0">sequence / structure</text>
+    <text x="930" y="420" font-size="19">EVALUATE</text><text x="930" y="444" font-family="monospace" font-size="12" fill="#93b0b0">score / rank / filter</text>
+    <text x="600" y="478" font-size="19">EXPERIMENT</text><text x="600" y="502" font-family="monospace" font-size="12" fill="#93b0b0">assay / observe</text>
+    <text x="270" y="420" font-size="19">FEEDBACK</text><text x="270" y="444" font-family="monospace" font-size="12" fill="#93b0b0">learn / calibrate</text>
+    <text x="200" y="190" font-size="19">DATA</text><text x="200" y="214" font-family="monospace" font-size="12" fill="#93b0b0">evidence / memory</text>
+  </g>
+
+  <g transform="translate(600 286)" fill="none" stroke="url(#cyan)" stroke-linecap="round">
+    <path d="M-74,-16 C-31,-68 31,68 74,16 C31,-36 -31,36 -74,-16Z" stroke-width="3" opacity="0.85"/>
+    <path d="M-74,16 C-31,68 31,-68 74,-16 C31,36 -31,-36 -74,16Z" stroke-width="3" opacity="0.58"/>
+    <path d="M-58,-29 L58,29 M-36,-48 L36,48 M-12,-50 L12,50 M12,-50 L-12,50 M36,-48 L-36,48 M58,-29 L-58,29" stroke-width="1" opacity="0.5"/>
+  </g>
+  <circle cx="600" cy="286" r="122" fill="none" stroke="#b18d54" stroke-width="1.2" stroke-dasharray="2 12" opacity="0.8"/>
+  <circle cx="600" cy="286" r="92" fill="none" stroke="#4b7d82" stroke-width="1" opacity="0.65"/>
+  <text x="600" y="365" fill="#d7c18c" font-family="Georgia,serif" font-size="20" text-anchor="middle" letter-spacing="2.4">WET · DRY LOOP</text>
+  <text x="600" y="390" fill="#88a5a8" font-family="monospace" font-size="13" text-anchor="middle" letter-spacing="1.1">MAKE THE NEXT CYCLE BETTER</text>
+
+  <circle class="motion" r="6" fill="#8ff5df" filter="url(#glow)">
+    <animateMotion dur="13s" repeatCount="indefinite" rotate="auto"><mpath href="#cyclePath"/></animateMotion>
+  </circle>
+  <circle class="motion" r="3" fill="#b8e5df" opacity="0.85">
+    <animateMotion dur="13s" begin="-6.5s" repeatCount="indefinite" rotate="auto"><mpath href="#cyclePath"/></animateMotion>
+  </circle>
+
+  <g opacity="0.5" stroke="#8b6c40" fill="none">
+    <path d="M1112 220 h28 M1126 206 v28 M88 502 h27 M101 488 v28"/>
+    <circle cx="1112" cy="220" r="13"/><circle cx="88" cy="502" r="13"/>
+  </g>
+</svg>

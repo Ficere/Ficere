@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 42" role="img" aria-labelledby="title desc">
+  <title id="title">Rotating research notes</title>
+  <desc id="desc">Short animated lines about protein design, validation, and a fortune-telling side quest.</desc>
+  <style>
+    text { fill: #7de2d1; font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 14px; font-weight: 600; }
+    .fallback { display: none; }
+    @media (prefers-reduced-motion: reduce) {
+      .motion { display: none; }
+      .fallback { display: block; }
+    }
+  </style>
+  <text class="fallback" x="170" y="27" text-anchor="middle">From atoms to assays</text>
+  <g class="motion" text-anchor="middle">
+    <text x="170" y="27" opacity="0">From atoms to assays<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.22;0.28;1" dur="16s" repeatCount="indefinite" /></text>
+    <text x="170" y="27" opacity="0">Design → validate → learn<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.22;0.28;0.44;0.5" dur="16s" repeatCount="indefinite" /></text>
+    <text x="170" y="27" opacity="0">BaZi, but with JSON Schema<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.44;0.5;0.68;0.74" dur="16s" repeatCount="indefinite" /></text>
+    <text x="170" y="27" opacity="0">Curiosity has no office hours<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.68;0.74;0.94;1" dur="16s" repeatCount="indefinite" /></text>
+  </g>
+</svg>
