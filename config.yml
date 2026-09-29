@@ -1,0 +1,66 @@
+username: Ficere
+
+profile:
+  name: "Ficere"
+  tagline: "AI × Synthetic Biology"
+  philosophy: "Let experimental data decide the next design; let curiosity decide the next question."
+
+social: {}
+
+galaxy_arms:
+  - name: "Protein & Enzyme Design"
+    color: "axon_amber"
+    items:
+      - "Sequence design"
+      - "Structure modeling"
+      - "Assay feedback"
+  - name: "Models & Atom-Level Tools"
+    color: "synapse_cyan"
+    items:
+      - "Frontier models"
+      - "Atom-level tools"
+      - "Evaluation loops"
+  - name: "Wet–Dry R&D Systems"
+    color: "dendrite_violet"
+    items:
+      - "Experimental validation"
+      - "Data feedback"
+      - "Reusable workflows"
+
+projects:
+  - repo: "Ficere/pipeline-assessment"
+    arm: 2
+    description: "Structured assessment for complex research and development pipelines."
+  - repo: "Ficere/DummyDocking"
+    arm: 1
+    description: "An inspectable template for structure-based computational workflows."
+  - repo: "Ficere/tianji"
+    arm: 0
+    description: "A schema-validated fortune-analysis agent for after-hours experiments."
+
+theme:
+  void: "#070b12"
+  nebula: "#101722"
+  star_dust: "#24343c"
+  synapse_cyan: "#71c9c2"
+  dendrite_violet: "#a48bce"
+  axon_amber: "#d7b56e"
+  text_bright: "#f1ead9"
+  text_dim: "#9fb8b7"
+  text_faint: "#6e8589"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8

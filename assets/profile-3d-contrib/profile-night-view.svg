@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution observatory fallback</title>
+  <desc id="desc">A static fallback for the generated three-dimensional contribution calendar.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b12"/><stop offset="1" stop-color="#172631"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#71c9c2"/><stop offset="1" stop-color="#d7b56e"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="260" rx="14" fill="url(#bg)"/>
+  <path d="M42 215 C210 146 330 246 486 173 S760 114 918 48" fill="none" stroke="url(#gold)" stroke-opacity=".35" stroke-width="2"/>
+  <g fill="#24343c">
+    <circle cx="110" cy="86" r="5"/><circle cx="144" cy="86" r="5"/><circle cx="178" cy="86" r="5"/><circle cx="212" cy="86" r="5"/>
+    <circle cx="110" cy="120" r="5"/><circle cx="144" cy="120" r="5"/><circle cx="178" cy="120" r="5"/><circle cx="212" cy="120" r="5"/>
+    <circle cx="110" cy="154" r="5"/><circle cx="144" cy="154" r="5"/><circle cx="178" cy="154" r="5"/><circle cx="212" cy="154" r="5"/>
+  </g>
+  <g fill="#71c9c2"><circle cx="246" cy="86" r="5"/><circle cx="280" cy="120" r="5"/><circle cx="314" cy="154" r="5"/></g>
+  <text x="42" y="44" fill="#f1ead9" font-family="Georgia,serif" font-size="20" letter-spacing="3">CONTRIBUTION OBSERVATORY</text>
+  <text x="42" y="238" fill="#9fb8b7" font-family="monospace" font-size="13">Generated profile view will replace this fallback after the first workflow run.</text>
+</svg>
