@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/hero-archive.png" alt="A Victorian occult observatory crossed with a protein research laboratory" />
+<img src="./assets/hero-archive.png" alt="A Victorian occult observatory crossed with a protein research laboratory" />
 
 # AI × Synthetic Biology
 
@@ -8,12 +8,13 @@
 
 <p><strong>白天设计蛋白，晚上研究 AI 会不会算命。</strong></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=950&color=7DE2D1&center=true&vCenter=true&width=560&height=50&lines=From+atoms+to+assays;Design+%E2%86%92+validate+%E2%86%92+learn;Protein+design+%E2%86%92+data+feedback;Building+reproducible+R%26D+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=950&color=7DE2D1&center=true&vCenter=true&width=420&height=44&lines=From+atoms+to+assays;Design+%E2%86%92+validate+%E2%86%92+learn;Protein+design+%E2%86%92+data+feedback;Building+reproducible+R%26D+systems)](https://git.io/typing-svg)
 
 ![Focus](https://img.shields.io/badge/focus-AI%20%C3%97%20Synthetic%20Biology-0E7490?style=for-the-badge&labelColor=0B1020)
-![Role](https://img.shields.io/badge/role-R%26D%20Lead-8B5CF6?style=for-the-badge&labelColor=0B1020)
 <br />
-![Domain](https://img.shields.io/badge/domain-Protein%20%26%20Enzyme%20Engineering-2563EB?style=for-the-badge&labelColor=0B1020)
+![Domain](https://img.shields.io/badge/domain-Protein%20%26%20Enzyme%20Eng.-2563EB?style=for-the-badge&labelColor=0B1020)
+<br />
+![Role](https://img.shields.io/badge/role-R%26D%20Lead-8B5CF6?style=for-the-badge&labelColor=0B1020)
 
 </div>
 
