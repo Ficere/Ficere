@@ -6,9 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=950&color=7DE2D1&center=true&vCenter=true&width=820&height=50&lines=AI+%C3%97+Synthetic+Biology;From+atoms+to+assays;Design+%E2%86%92+validate+%E2%86%92+learn;Protein+design+%E2%86%92+data+feedback;%E7%99%BD%E5%A4%A9%E8%AE%BE%E8%AE%A1%E8%9B%8B%E7%99%BD%EF%BC%8C%E6%99%9A%E4%B8%8A%E7%A0%94%E7%A9%B6+AI+%E4%BC%9A%E4%B8%8D%E4%BC%9A%E7%AE%97%E5%91%BD%E3%80%82)](https://git.io/typing-svg)
 
-**AI × Synthetic Biology · Protein Design · Scientific Platforms**
+**AI × Synthetic Biology · 蛋白质与酶工程 · Protein & Enzyme Engineering**
 
-我负责把前沿模型、原子级工具和实验验证接成可以被团队复用的研发能力。
+我负责把前沿模型、原子级工具和实验验证接成可以被团队复用的研发能力。  
+I connect frontier models, atom-level tools, and experimental validation into R&amp;D capabilities that teams can reuse.
 
 <br />
 
@@ -18,15 +19,19 @@
 
 </div>
 
-## 🕯️ The Dossier
+## 🧬 关于我 · About Me
 
-I lead R&D at the intersection of **AI and synthetic biology**, building platforms for protein and enzyme design, validation, and delivery.
+我负责 AI 与合成生物学交叉领域的研发，建设面向蛋白质与酶工程的设计、验证和交付平台。  
+I lead R&amp;D at the intersection of **AI and synthetic biology**, building platforms for protein and enzyme design, validation, and delivery.
 
-My work spans **atom-level modeling tools**, frontier protein models, sequence design and evaluation, scientific workflow integration, and the wet–dry loop that connects computational design with experiments and data feedback.
+我的工作覆盖 **原子级建模工具**、前沿蛋白模型、序列设计与评测、科研工具集成，以及把计算设计、实验验证和数据回流连接起来的干湿闭环。  
+My work spans **atom-level modeling tools**, frontier protein models, sequence design and evaluation, scientific workflow integration, and the wet–dry loop connecting computational design with experiments and data feedback.
 
-Today, my focus is turning hard-won technical insight into a capability that teams and partners can use repeatedly: more standardized, more reproducible, and easier to deliver.
+现在，我更关注如何把复杂的技术能力沉淀成标准化、可复现、可交付的平台，让团队和合作伙伴能够稳定使用。  
+Today, I focus on turning complex technical capabilities into platforms that are standardized, reproducible, and practical for teams and partners.
 
-> I still go deep when the problem demands it. My job now is to turn that depth into a system other people can run, inspect, and improve.
+> 我仍然会在关键问题上深入模型和原子层面；现在更重要的是，让团队能够复用这些能力。  
+> I still go deep when the problem demands it; my job now is to make that depth reusable by the team.
 
 ```yaml
 focus: "AI × Synthetic Biology"
@@ -36,69 +41,75 @@ role: "R&D Lead"
 based_in: "Beijing"
 ```
 
-## ⚗️ The Workshop
+## 🛠️ 研发方向 · What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 Protein Design
+### 🧬 蛋白质与酶设计 · Protein & Enzyme Design
 
-Design workflows for proteins and enzymes, from sequence-level reasoning to structure-aware and atom-level computational tools.
+覆盖序列设计、结构建模和原子级计算工具。  
+Design workflows spanning sequence design, structure modeling, and atom-level computational tools.
 
 </td>
 <td width="50%" valign="top">
 
-### ✦ Frontier Models
+### ✦ 前沿模型 · Frontier Models
 
-Development and evaluation of state-of-the-art models for biological sequence, structure, and design problems.
+开发和评测用于生物序列、结构和设计问题的 SOTA 模型。  
+Develop and evaluate state-of-the-art models for biological sequence, structure, and design problems.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🜁 Wet–Dry Loops
+### 🜁 计算—实验闭环 · Wet–Dry Loop
 
-Connecting computational hypotheses, experimental validation, and feedback data into an iterative design system.
+连接计算假设、实验验证和反馈数据，让下一轮设计更可靠。  
+Connect computational hypotheses, experimental validation, and feedback data so each design cycle improves.
 
 </td>
 <td width="50%" valign="top">
 
-### 🜃 R&amp;D Platforms
+### 🜃 研发平台 · R&amp;D Platforms
 
-Turning complex research workflows into reliable, reproducible capabilities for teams and collaborators.
+把复杂科研流程变成团队和合作伙伴可以稳定使用的系统。  
+Turn complex research workflows into reliable systems for teams and collaborators.
 
 </td>
 </tr>
 </table>
 
-## 🔭 How I Think About the Loop
+## 🔁 研发闭环 · R&amp;D Loop
 
 <div align="center">
 
-<img width="100%" src="./assets/research-loop.svg" alt="Animated design cycle: hypothesis, molecular design, computational evaluation, experimental validation, data feedback, and the next design cycle" />
+<img width="100%" src="./assets/research-loop.svg" alt="研发闭环：假设、分子设计、计算评测、实验验证、数据反馈和下一轮设计" />
 
 </div>
 
-The goal is not only to generate a promising molecule. It is to make the next design cycle better, easier to reproduce, and easier for another person to run.
+我关注的不只是生成一个候选分子，而是让下一轮设计更快、更可靠、更容易复现。  
+The goal is not only to generate a promising molecule, but to make the next design cycle faster, more reliable, and easier to reproduce.
 
 <details>
-<summary><strong>Open the instrument panel</strong></summary>
+<summary><strong>查看每一层的输入和产出 · Open the details</strong></summary>
 
-| Layer | Question | Artifact |
+| 阶段 / Stage | 关键问题 / Question | 产出 / Artifact |
 |---|---|---|
-| Hypothesis | What should be true? | design brief / target profile |
-| Molecular design | What could satisfy it? | sequences / structures / candidates |
-| Evaluation | Which candidates deserve attention? | scores / filters / ranking |
-| Experiment | What survives contact with reality? | assays / measurements |
-| Feedback | What did the system learn? | calibrated data / next hypothesis |
+| 假设 / Hypothesis | 什么应该成立？ / What should be true? | 设计简报、目标画像 / design brief, target profile |
+| 分子设计 / Molecular Design | 什么候选可能满足目标？ / What could satisfy it? | 序列、结构、候选集 / sequences, structures, candidates |
+| 计算评测 / Evaluation | 哪些候选值得进入下一步？ / Which candidates deserve attention? | 分数、过滤、排序 / scores, filters, ranking |
+| 实验验证 / Experiment | 哪些结果能经受真实实验？ / What survives contact with reality? | 实验测量 / assays, measurements |
+| 数据回流 / Feedback | 系统从结果中学到了什么？ / What did the system learn? | 校准数据、下一条假设 / calibrated data, next hypothesis |
 
 </details>
 
-## 🔬 Selected Public Work
+## 🔬 公开项目 · Selected Public Work
 
-Most of the core systems I work on are not public. The projects below show the same habits in a form that can be shared: explicit interfaces, structured outputs, validation, and tools that other agents or people can actually use.
+大部分核心研发系统暂时不会开源。下面这些公开项目展示了我重视的工程方式：明确接口、结构化输出、自动验证，以及真正能被人和 Agent 使用的工具。  
+Most of the core systems I work on are not public. These projects show the engineering habits I value: explicit interfaces, structured outputs, validation, and tools that people and agents can actually use.
 
 <table>
 <tr>
@@ -106,6 +117,7 @@ Most of the core systems I work on are not public. The projects below show the s
 
 ### 🧭 [Pipeline Assessment](https://github.com/Ficere/pipeline-assessment)
 
+面向药物研发管线和资产评估的 Agent Skill。  
 An Agent Skill for structured pharmaceutical pipeline and asset assessment.
 
 `Agent Skill` · `Pharma` · `Evaluation`
@@ -115,6 +127,7 @@ An Agent Skill for structured pharmaceutical pipeline and asset assessment.
 
 ### ⚛️ [DummyDocking](https://github.com/Ficere/DummyDocking)
 
+一个简洁的 Docking 流程模板，帮助结构计算工作更容易检查和复现。  
 A compact docking workflow template for making structure-based work easier to inspect and reproduce.
 
 `Docking` · `Workflow` · `Reproducibility`
@@ -124,6 +137,7 @@ A compact docking workflow template for making structure-based work easier to in
 
 ### 🔮 [tianji](https://github.com/Ficere/tianji)
 
+一个带结构化输出、验证和静态报告的命理测算 Agent Skill。  
 An all-in-one fortune-analysis Agent Skill with structured outputs, validation, and static reports.
 
 `Agent Skill` · `Schemas` · `Curiosity`
@@ -132,19 +146,26 @@ An all-in-one fortune-analysis Agent Skill with structured outputs, validation, 
 </tr>
 </table>
 
-## 🌙 After Hours
+## 🌙 业余实验室 · After Hours
 
-I like turning questions that are slightly outside my day job into working tools. [tianji](https://github.com/Ficere/tianji) is my current favorite example: a bridge between traditional Chinese systems, Western astrology, structured computation, and agent workflows.
+白天设计蛋白，晚上研究 AI 会不会算命。  
+By day I work on protein design; after hours I explore whether AI can do fortune-telling.
 
-I believe in experimental data. I also allow curiosity to occasionally wander off course.
+我喜欢把一些“不太像蛋白设计的问题”做成真正能运行的工具。比如 [tianji](https://github.com/Ficere/tianji)，它把传统命理、西方星座、结构化计算和 Agent 工作流放进了同一个项目。  
+I like turning questions that are slightly outside my day job into working tools. [tianji](https://github.com/Ficere/tianji) brings traditional Chinese systems, Western astrology, structured computation, and agent workflows into one project.
 
-## 🧭 Principles
+我相信实验数据，也允许好奇心偶尔跑偏。  
+I believe in experimental data, and I allow curiosity to occasionally wander off course.
 
-> Let experimental data decide the next design. Let curiosity decide the next question.
+## 🧭 工作原则 · Principles
 
-> Complex research becomes useful when someone else can reproduce it.
+> 让实验数据决定下一轮设计，让好奇心决定下一组问题。  
+> Let experimental data decide the next design; let curiosity decide the next question.
 
-## 📊 GitHub Activity
+> 复杂研究只有变得可复现，才真正成为团队能力。  
+> Complex research becomes a real team capability when it can be reproduced.
+
+## 📊 GitHub 活动 · GitHub Activity
 
 <div align="center">
 <picture>
@@ -154,12 +175,14 @@ I believe in experimental data. I also allow curiosity to occasionally wander of
 </picture>
 </div>
 
-## 🤝 Collaboration
+## 🤝 合作与交流 · Collaboration
 
-I am interested in thoughtful conversations and collaborations around **AI for biology, protein and enzyme engineering, scientific infrastructure, agentic workflows, and reproducible R&amp;D**.
+欢迎围绕 **AI for Biology、蛋白质与酶工程、科研基础设施、Agent 工作流和可复现研发** 交流合作。  
+I am interested in conversations and collaborations around **AI for biology, protein and enzyme engineering, scientific infrastructure, agentic workflows, and reproducible R&amp;D**.
 
 <div align="center">
 
 <a href="https://github.com/Ficere"><img src="https://img.shields.io/badge/GitHub-Ficere-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
+
