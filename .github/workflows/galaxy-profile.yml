@@ -11,6 +11,10 @@ on:
       - "requirements-profile.txt"
       - ".github/workflows/galaxy-profile.yml"
 
+concurrency:
+  group: profile-generated-assets
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -41,5 +45,6 @@ jobs:
             echo "No galaxy profile changes"
           else
             git commit -m "chore: update galaxy profile assets"
+            git pull --rebase origin main
             git push
           fi
