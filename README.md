@@ -4,6 +4,8 @@
 
 # 白天设计蛋白，晚上研究 AI 会不会算命。
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=950&color=7DE2D1&center=true&vCenter=true&width=820&height=50&lines=AI+%C3%97+Synthetic+Biology;From+atoms+to+assays;Design+%E2%86%92+validate+%E2%86%92+learn;Protein+design+%E2%86%92+data+feedback;%E7%99%BD%E5%A4%A9%E8%AE%BE%E8%AE%A1%E8%9B%8B%E7%99%BD%EF%BC%8C%E6%99%9A%E4%B8%8A%E7%A0%94%E7%A9%B6+AI+%E4%BC%9A%E4%B8%8D%E4%BC%9A%E7%AE%97%E5%91%BD%E3%80%82)](https://git.io/typing-svg)
+
 **AI × Synthetic Biology · Protein Design · Scientific Platforms**
 
 我负责把前沿模型、原子级工具和实验验证接成可以被团队复用的研发能力。
@@ -161,4 +163,3 @@ I am interested in thoughtful conversations and collaborations around **AI for b
 <a href="https://github.com/Ficere"><img src="https://img.shields.io/badge/GitHub-Ficere-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
-
