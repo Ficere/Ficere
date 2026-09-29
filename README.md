@@ -1,19 +1,17 @@
-<div align="center">
-
+<p align="center">
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/hero-archive-mobile.png" />
   <img src="./assets/hero-archive.png" alt="A Victorian occult observatory crossed with a protein research laboratory" />
 </picture>
+</p>
 
-# AI × Synthetic Biology
+<h1 align="center">AI × Synthetic Biology</h1>
 
-**Protein Design · Scientific Platforms**
+<p align="center"><strong>Protein Design · Scientific Platforms</strong></p>
 
-<p><strong>白天设计蛋白，晚上研究 AI 会不会算命。</strong></p>
+<p align="center"><strong>白天设计蛋白，晚上研究 AI 会不会算命。</strong></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1100&color=7DE2D1&center=true&vCenter=true&width=340&height=40&lines=From+atoms+to+assays;Design+%E2%86%92+validate+%E2%86%92+learn;BaZi%2C+but+with+JSON+Schema;Curiosity+has+no+office+hours)](https://git.io/typing-svg)
-
-</div>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&amp;weight=600&amp;size=16&amp;pause=1100&amp;color=7DE2D1&amp;center=true&amp;vCenter=true&amp;width=340&amp;height=40&amp;lines=From+atoms+to+assays;Design+%E2%86%92+validate+%E2%86%92+learn;BaZi%2C+but+with+JSON+Schema;Curiosity+has+no+office+hours" alt="Typing animation" /></a></p>
 
 ## About Me · 关于我
 
