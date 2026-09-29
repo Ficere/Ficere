@@ -7,7 +7,7 @@
 </picture>
 </p>
 
-<h1 align="center">AI × Synthetic Biology</h1>
+<h1 align="center">AI × Synthetic Biology × Biomanufacturing</h1>
 
 <p align="center"><strong>Designing proteins by day, researching whether AI can tell fortunes by night.</strong></p>
 
@@ -22,11 +22,11 @@
 
 ## ☀️ Day
 
-I lead R&amp;D at the intersection of **AI and synthetic biology**, working across protein and enzyme design, atom-level molecular tools, biological models, and scientific workflows.
+I work at the intersection of **AI, synthetic biology, and biomanufacturing**, building protein and enzyme design workflows that connect computational modeling, experimental validation, and data feedback.
 
-The through-line is a wet–dry loop: connect computational design to experiments and data feedback, then turn hard-won technical depth into systems a team can reuse.
+I turn advanced models and atom-level tools into reproducible systems that teams can reuse.
 
-Public entry point: [SynAster Hub](https://syn-aster.bohrium.com/) — a protein- and RNA-design skill bundle for AI agents.
+Public entry point: [SynAster Hub](https://syn-aster.bohrium.com/) — a protein-design skill bundle for AI agents.
 
 <div align="center">
 
@@ -41,7 +41,12 @@ Public entry point: [SynAster Hub](https://syn-aster.bohrium.com/) — a protein
 
 ## 🌙 Night
 
-**[tianji](https://github.com/Ficere/tianji)** — BaZi, but with JSON Schema validation. Reproducible fortune-telling, built with the habits of a scientific tool.
+<a href="https://github.com/Ficere/tianji">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/tianji-card-mobile.svg" />
+  <img width="100%" src="./assets/tianji-card.svg" alt="Tianji after-hours card: BaZi, but schema-validated" />
+</picture>
+</a>
 
 **[macro-regime-mapping](https://github.com/Ficere/macro-regime-mapping)** — another small side quest for turning signals into structured outputs.
 

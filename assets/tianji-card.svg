@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 210" role="img" aria-labelledby="title desc">
+  <title id="title">Tianji after-hours experiment</title>
+  <desc id="desc">A brass and cyan fortune card for Tianji, an after-hours agent experiment.</desc>
+  <defs>
+    <style>@media (prefers-reduced-motion: reduce) { .motion { display: none; } }</style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111b2a"/><stop offset="0.58" stop-color="#0a111c"/><stop offset="1" stop-color="#17101b"/>
+    </linearGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0d49a"/><stop offset="0.48" stop-color="#b08d57"/><stop offset="1" stop-color="#62452b"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <radialGradient id="halo"><stop offset="0" stop-color="#66e6dc" stop-opacity="0.35"/><stop offset="1" stop-color="#66e6dc" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="4" y="4" width="712" height="202" rx="18" fill="url(#bg)" stroke="#5f472e" stroke-width="2"/>
+  <rect x="13" y="13" width="694" height="184" rx="13" fill="none" stroke="url(#brass)" stroke-width="1.5" opacity="0.78"/>
+  <circle cx="102" cy="104" r="74" fill="url(#halo)" opacity="0.25"/>
+  <g class="motion" fill="#8ff5df" filter="url(#glow)">
+    <circle cx="52" cy="52" r="2" opacity="0"><animate attributeName="cx" values="52;101;101" dur="6s" repeatCount="indefinite"/><animate attributeName="cy" values="52;104;104" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.32;0.56;1" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="160" cy="42" r="1.8" opacity="0"><animate attributeName="cx" values="160;101;101" dur="6s" repeatCount="indefinite"/><animate attributeName="cy" values="42;104;104" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0.8;0" keyTimes="0;0.38;0.62;1" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="172" cy="162" r="2" opacity="0"><animate attributeName="cx" values="172;101;101" dur="6s" repeatCount="indefinite"/><animate attributeName="cy" values="162;104;104" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.44;0.68;1" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="42" cy="166" r="1.6" opacity="0"><animate attributeName="cx" values="42;101;101" dur="6s" repeatCount="indefinite"/><animate attributeName="cy" values="166;104;104" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0.8;0" keyTimes="0;0.4;0.64;1" dur="6s" repeatCount="indefinite"/></circle>
+  </g>
+  <circle class="motion" cx="101" cy="104" r="54" fill="none" stroke="#d7b56e" stroke-width="2" stroke-dasharray="3 8" opacity="0.25"><animate attributeName="opacity" values="0.2;0.85;0.85;0.25" keyTimes="0;0.5;0.78;1" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="101" cy="104" r="8" fill="#8ff5df" opacity="0.45" filter="url(#glow)"/>
+  <g fill="#f0d49a" font-family="Georgia, serif">
+    <text x="208" y="76" font-size="23" letter-spacing="4">TIANJI / AFTER HOURS</text>
+    <text x="208" y="119" font-size="25">BaZi, but schema-validated.</text>
+    <text x="208" y="151" font-size="19" fill="#9fb8b7">A reproducible reading for an irreproducible universe.</text>
+  </g>
+  <path class="motion" d="M34 190 H686" stroke="#62d9d4" stroke-width="2" opacity="0" filter="url(#glow)"><animate attributeName="opacity" values="0;0;0.8;0.8;0" keyTimes="0;0.36;0.5;0.72;1" dur="6s" repeatCount="indefinite"/></path>
+</svg>

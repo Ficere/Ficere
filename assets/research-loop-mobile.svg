@@ -41,6 +41,15 @@
     <circle cx="350" cy="688" r="73"/><circle cx="350" cy="858" r="73"/><circle cx="350" cy="1010" r="50"/>
   </g>
 
+  <g class="motion" fill="none" stroke="#62d9d4" stroke-width="2.8" opacity="0.12" filter="url(#glow)">
+    <circle cx="350" cy="178" r="77"><animate attributeName="opacity" values="0.12;0.12;0.85;0.12;0.12" keyTimes="0;0.02;0.08;0.15;1" dur="13s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="348" r="77"><animate attributeName="opacity" values="0.12;0.12;0.85;0.12;0.12" keyTimes="0;0.14;0.18;0.25;1" dur="13s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="518" r="77"><animate attributeName="opacity" values="0.12;0.12;0.85;0.12;0.12" keyTimes="0;0.30;0.34;0.41;1" dur="13s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="688" r="77"><animate attributeName="opacity" values="0.12;0.12;0.85;0.12;0.12" keyTimes="0;0.48;0.54;0.61;1" dur="13s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="858" r="77"><animate attributeName="opacity" values="0.12;0.12;0.85;0.12;0.12" keyTimes="0;0.65;0.70;0.77;1" dur="13s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="1010" r="54"><animate attributeName="opacity" values="0.12;0.12;0.85;0.12;0.12" keyTimes="0;0.81;0.87;0.94;1" dur="13s" repeatCount="indefinite"/></circle>
+  </g>
+
   <g fill="#e7d6a9" font-family="Georgia,serif" text-anchor="middle">
     <text x="350" y="171" font-size="25">HYPOTHESIS</text><text x="350" y="199" font-family="monospace" font-size="14" fill="#93b0b0">signal / question</text>
     <text x="350" y="341" font-size="25">DESIGN</text><text x="350" y="369" font-family="monospace" font-size="14" fill="#93b0b0">sequence / structure</text>
