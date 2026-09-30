@@ -1,32 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="250" viewBox="0 0 850 250" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="270" viewBox="0 0 850 270" role="img" aria-labelledby="title desc">
 <title id="title">Qualitative capability radar</title>
 <desc id="desc">An equal-weight map of protein and enzyme design, frontier models, atom-level tools, and wet-dry research systems.</desc>
 <style>@media (prefers-reduced-motion: reduce) { .motion { display: none; } }</style>
-<rect x="0.5" y="0.5" width="849" height="249" rx="16" fill="#101722" stroke="#24343c" stroke-width="1"/>
+<rect x="0.5" y="0.5" width="849" height="269" rx="16" fill="#101722" stroke="#24343c" stroke-width="1"/>
 <text x="30" y="42" fill="#6e8589" font-size="11" font-family="monospace" letter-spacing="3">CAPABILITY RADAR</text>
 <text x="30" y="78" fill="#f1ead9" font-size="22" font-family="Georgia,serif">A reusable research stack</text>
 <text x="30" y="112" fill="#9fb8b7" font-size="13" font-family="sans-serif">Four connected areas, shown as a map</text>
 <text x="30" y="134" fill="#9fb8b7" font-size="13" font-family="sans-serif">rather than a ranked scorecard.</text>
 <path d="M30 165H370" stroke="#24343c" stroke-width="1"/>
 <text x="30" y="192" fill="#6e8589" font-size="11" font-family="monospace">DESIGN · MODELS · ATOMS · LOOP</text>
-<g fill="none" stroke="#6e8589" stroke-width="1" opacity=".4"><circle cx="650" cy="128" r="26"/><circle cx="650" cy="128" r="52"/><circle cx="650" cy="128" r="78"/></g>
-<line x1="650" y1="128" x2="650.0" y2="50.0" stroke="#24343c" stroke-width="1"/>
-<circle class="motion" cx="650.0" cy="50.0" r="5" fill="#d7b56e"><animate attributeName="r" values="4;7;4" dur="6s" begin="0.0s" repeatCount="indefinite"/></circle>
-<line x1="650" y1="128" x2="728.0" y2="128.0" stroke="#24343c" stroke-width="1"/>
-<circle class="motion" cx="728.0" cy="128.0" r="5" fill="#71c9c2"><animate attributeName="r" values="4;7;4" dur="6s" begin="1.0s" repeatCount="indefinite"/></circle>
-<line x1="650" y1="128" x2="650.0" y2="206.0" stroke="#24343c" stroke-width="1"/>
-<circle class="motion" cx="650.0" cy="206.0" r="5" fill="#a48bce"><animate attributeName="r" values="4;7;4" dur="6s" begin="2.0s" repeatCount="indefinite"/></circle>
-<line x1="650" y1="128" x2="572.0" y2="128.0" stroke="#24343c" stroke-width="1"/>
-<circle class="motion" cx="572.0" cy="128.0" r="5" fill="#d7b56e"><animate attributeName="r" values="4;7;4" dur="6s" begin="3.0s" repeatCount="indefinite"/></circle>
-<polygon points="650.0,50.0 728.0,128.0 650.0,206.0 572.0,128.0" fill="#71c9c2" fill-opacity=".10" stroke="#71c9c2" stroke-width="1.5"/>
-<circle cx="650" cy="128" r="16" fill="#101722" stroke="#d7b56e" stroke-width="1.5"/>
-<text x="650" y="132" text-anchor="middle" fill="#f1ead9" font-family="monospace" font-size="9" letter-spacing="1">R&amp;D</text>
-<text x="736" y="123" text-anchor="start" fill="#d7b56e" font-family="monospace" font-size="9">Protein &amp; Enzyme</text>
-<text x="736" y="135" text-anchor="start" fill="#d7b56e" font-family="monospace" font-size="9">Design</text>
-<text x="663" y="37" text-anchor="middle" fill="#71c9c2" font-family="monospace" font-size="9">Frontier Models</text>
-<text x="564" y="123" text-anchor="end" fill="#a48bce" font-family="monospace" font-size="9">Atom-Level</text>
-<text x="564" y="135" text-anchor="end" fill="#a48bce" font-family="monospace" font-size="9">Tools</text>
-<text x="663" y="224" text-anchor="middle" fill="#d7b56e" font-family="monospace" font-size="9">Wet–Dry R&amp;D</text>
-<text x="663" y="236" text-anchor="middle" fill="#d7b56e" font-family="monospace" font-size="9">Systems</text>
-<path class="motion" d="M560 220H760" stroke="#71c9c2" stroke-width="1" stroke-dasharray="3 8"><animate attributeName="stroke-dashoffset" from="0" to="-90" dur="7s" repeatCount="indefinite"/></path>
+<g fill="none" stroke="#6e8589" stroke-width="1" opacity=".4"><circle cx="640" cy="136" r="26"/><circle cx="640" cy="136" r="52"/><circle cx="640" cy="136" r="96"/></g>
+<line x1="640" y1="136" x2="640.0" y2="40.0" stroke="#24343c" stroke-width="1"/>
+<circle class="motion" cx="640.0" cy="40.0" r="5" fill="#d7b56e"><animate attributeName="r" values="4;7;4" dur="6s" begin="0.0s" repeatCount="indefinite"/></circle>
+<line x1="640" y1="136" x2="736.0" y2="136.0" stroke="#24343c" stroke-width="1"/>
+<circle class="motion" cx="736.0" cy="136.0" r="5" fill="#71c9c2"><animate attributeName="r" values="4;7;4" dur="6s" begin="1.0s" repeatCount="indefinite"/></circle>
+<line x1="640" y1="136" x2="640.0" y2="232.0" stroke="#24343c" stroke-width="1"/>
+<circle class="motion" cx="640.0" cy="232.0" r="5" fill="#a48bce"><animate attributeName="r" values="4;7;4" dur="6s" begin="2.0s" repeatCount="indefinite"/></circle>
+<line x1="640" y1="136" x2="544.0" y2="136.0" stroke="#24343c" stroke-width="1"/>
+<circle class="motion" cx="544.0" cy="136.0" r="5" fill="#d7b56e"><animate attributeName="r" values="4;7;4" dur="6s" begin="3.0s" repeatCount="indefinite"/></circle>
+<polygon points="640.0,40.0 736.0,136.0 640.0,232.0 544.0,136.0" fill="#71c9c2" fill-opacity=".10" stroke="#71c9c2" stroke-width="1.5"/>
+<circle cx="640" cy="136" r="16" fill="#101722" stroke="#d7b56e" stroke-width="1.5"/>
+<text x="640" y="140" text-anchor="middle" fill="#f1ead9" font-family="monospace" font-size="9" letter-spacing="1">R&amp;D</text>
+<text x="744" y="131" text-anchor="start" fill="#d7b56e" font-family="monospace" font-size="10">Protein &amp; Enzyme</text>
+<text x="744" y="143" text-anchor="start" fill="#d7b56e" font-family="monospace" font-size="10">Design</text>
+<text x="653" y="27" text-anchor="middle" fill="#71c9c2" font-family="monospace" font-size="10">Frontier Models</text>
+<text x="536" y="131" text-anchor="end" fill="#a48bce" font-family="monospace" font-size="10">Atom-Level</text>
+<text x="536" y="143" text-anchor="end" fill="#a48bce" font-family="monospace" font-size="10">Tools</text>
+<text x="653" y="250" text-anchor="middle" fill="#d7b56e" font-family="monospace" font-size="10">Wet–Dry R&amp;D</text>
+<text x="653" y="262" text-anchor="middle" fill="#d7b56e" font-family="monospace" font-size="10">Systems</text>
+<path class="motion" d="M540 248H780" stroke="#71c9c2" stroke-width="1" stroke-dasharray="3 8"><animate attributeName="stroke-dashoffset" from="0" to="-90" dur="7s" repeatCount="indefinite"/></path>
 </svg>

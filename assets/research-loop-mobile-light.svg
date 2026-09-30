@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 1080" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 950" role="img" aria-labelledby="title desc">
   <title id="title">The Design Cycle — mobile view</title>
   <desc id="desc">A vertical mobile-friendly design cycle from hypothesis through molecular design, evaluation, experiment, feedback, and the next cycle.</desc>
   <defs>
@@ -23,6 +23,7 @@
     </pattern>
     <path id="mobilePath" d="M350 230 C505 275 505 355 350 400 C195 445 195 525 350 570 C505 615 505 695 350 740 C195 785 195 865 350 910" fill="none"/>
   </defs>
+  <g transform="translate(0 10) scale(1 .88)">
 
   <rect width="700" height="1080" rx="22" fill="url(#bg)"/>
   <rect width="700" height="1080" rx="22" fill="url(#grain)" opacity="0.62"/>
@@ -64,4 +65,5 @@
   <circle class="motion" r="8" fill="#137f83" filter="url(#glow)">
     <animateMotion dur="13s" repeatCount="indefinite" rotate="auto"><mpath href="#mobilePath"/></animateMotion>
   </circle>
+  </g>
 </svg>

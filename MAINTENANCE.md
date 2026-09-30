@@ -1,8 +1,8 @@
 # Profile maintenance
 
-The README uses one visual hero: the original star-chart/protein artwork with a solid-color typewriter layer in its open left field. The sequence is “From atoms to assays”, “Design → validate → learn”, “Protein design → data feedback”, and “BaZi, but schema-validated”. It uses a 10 second clip-reveal loop and a static first line when reduced motion is requested. The capsule-render files remain in assets/ as rollback assets but are not linked from the profile.
+The README uses one visual hero: the original star-chart/protein artwork with a solid-color identity title and typewriter layer in its open left field. The title is “AI × Synthetic Biology”; the sequence is “From atoms to assays”, “Design → validate → learn”, “Protein design → data feedback”, and “BaZi, but schema-validated”. Desktop keeps the title and sequence inside the left safe area; mobile splits the title into two lines. It uses a 10 second clip-reveal loop and a static first line when reduced motion is requested. The capsule-render files remain in assets/ as rollback assets but are not linked from the profile.
 
-The Day section keeps the research-loop SVG as its main visual. Its 13 second data-return path and node responses remain enabled in the dark and light variants. The motion class is hidden for reduced-motion users. SynAster is described only as a public protein-design skill bundle for AI agents.
+The Day section keeps the research-loop SVG as its main visual. Its 13 second data-return path and node responses remain enabled in the dark and light variants. The mobile loop uses a compressed viewBox so its nodes remain readable without creating a tall blank block. The motion class is hidden for reduced-motion users. SynAster is described only as a public protein-design skill bundle for AI agents.
 
 The Night section links equal-weight cards for Ficere/tianji and Ficere/macro-regime-mapping. The macro card is a global systems observatory: policy, cycles, geopolitics, liquidity, cross-asset links, and scenario branches. It does not use a stock chart or imply a biology result.
 

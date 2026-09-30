@@ -10,7 +10,7 @@ from generator.utils import esc
 
 
 WIDTH = 850
-HEIGHT = 250
+HEIGHT = 270
 
 
 def _point(cx, cy, radius, angle_degrees):
@@ -42,7 +42,7 @@ def render(
         ("Atom-Level Tools", violet, 180),
         ("Wet–Dry R&D Systems", amber, 270),
     ]
-    cx, cy, radius = 650, 128, 78
+    cx, cy, radius = 640, 136, 96
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}" role="img" aria-labelledby="title desc">',
         '<title id="title">Qualitative capability radar</title>',
@@ -71,18 +71,18 @@ def render(
     parts.append(f'<text x="{cx}" y="{cy + 4}" text-anchor="middle" fill="{text_bright}" font-family="monospace" font-size="9" letter-spacing="1">R&amp;D</text>')
 
     label_lines = [
-        (["Protein & Enzyme", "Design"], cx + 86, cy - 5, "start", amber),
+        (["Protein & Enzyme", "Design"], cx + 104, cy - 5, "start", amber),
         (["Frontier Models"], cx + 13, cy - radius - 13, "middle", cyan),
-        (["Atom-Level", "Tools"], cx - 86, cy - 5, "end", violet),
+        (["Atom-Level", "Tools"], cx - 104, cy - 5, "end", violet),
         (["Wet–Dry R&D", "Systems"], cx + 13, cy + radius + 18, "middle", amber),
     ]
     for lines, x, y, anchor, color in label_lines:
         for line_index, line in enumerate(lines):
             parts.append(
                 f'<text x="{x}" y="{y + line_index * 12}" text-anchor="{anchor}" '
-                f'fill="{color}" font-family="monospace" font-size="9">{esc(line)}</text>'
+                f'fill="{color}" font-family="monospace" font-size="10">{esc(line)}</text>'
             )
 
-    parts.append(f'<path class="motion" d="M560 220H760" stroke="{cyan}" stroke-width="1" stroke-dasharray="3 8"><animate attributeName="stroke-dashoffset" from="0" to="-90" dur="7s" repeatCount="indefinite"/></path>')
+    parts.append(f'<path class="motion" d="M540 248H780" stroke="{cyan}" stroke-width="1" stroke-dasharray="3 8"><animate attributeName="stroke-dashoffset" from="0" to="-90" dur="7s" repeatCount="indefinite"/></path>')
     parts.append("</svg>")
     return "\n".join(parts)

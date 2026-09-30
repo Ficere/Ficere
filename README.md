@@ -66,7 +66,7 @@ Public tools: [Pipeline Assessment](https://github.com/Ficere/pipeline-assessmen
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-3d-contrib/profile-night-view.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-3d-contrib/profile-green.svg" />
-  <img width="100%" src="./assets/profile-3d-contrib/profile-green.svg" alt="Three-dimensional GitHub contribution observatory" />
+  <img width="90%" src="./assets/profile-3d-contrib/profile-green.svg" alt="Three-dimensional GitHub contribution observatory" />
 </picture>
 </p>
 
@@ -74,7 +74,7 @@ Public tools: [Pipeline Assessment](https://github.com/Ficere/pipeline-assessmen
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ficere/Ficere/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ficere/Ficere/output/github-contribution-grid-snake.svg" />
-  <img src="./assets/snake-fallback.svg" alt="Animated GitHub contribution snake" />
+  <img width="90%" src="./assets/snake-fallback.svg" alt="Animated GitHub contribution snake" />
 </picture>
 </p>
 

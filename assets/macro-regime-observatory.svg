@@ -18,13 +18,13 @@
       <animateTransform attributeName="transform" type="rotate" from="-18 225 130" to="342 225 130" dur="16s" repeatCount="indefinite"/>
     </ellipse>
   </g>
-  <circle cx="225" cy="130" r="35" fill="#101722" stroke="#d7b56e" stroke-width="1.5"/>
+  <circle cx="225" cy="130" r="39" fill="#101722" stroke="#d7b56e" stroke-width="1.5"/>
   <circle class="motion" cx="225" cy="130" r="8" fill="#71c9c2" opacity=".7">
     <animate attributeName="r" values="6;10;6" dur="5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values=".4;1;.4" dur="5s" repeatCount="indefinite"/>
   </circle>
-  <text x="225" y="126" text-anchor="middle" fill="#f1ead9" font-family="Georgia,serif" font-size="12" letter-spacing="2">GLOBAL</text>
-  <text x="225" y="143" text-anchor="middle" fill="#f1ead9" font-family="Georgia,serif" font-size="12" letter-spacing="2">SYSTEM</text>
+  <text x="225" y="125" text-anchor="middle" fill="#f1ead9" font-family="Georgia,serif" font-size="13" letter-spacing="2">GLOBAL</text>
+  <text x="225" y="145" text-anchor="middle" fill="#f1ead9" font-family="Georgia,serif" font-size="13" letter-spacing="2">SYSTEM</text>
   <g fill="#d7b56e" stroke="#0b111c" stroke-width="3">
     <circle cx="108" cy="78" r="6"/><circle cx="339" cy="82" r="6"/><circle cx="356" cy="176" r="6"/>
     <circle cx="102" cy="180" r="6"/><circle cx="225" cy="47" r="6"/><circle cx="225" cy="213" r="6"/>
@@ -39,10 +39,10 @@
     <circle cx="330" cy="140" r="3"><animateMotion dur="9s" repeatCount="indefinite" path="M0 0 C-70 55 -150 40 -230 -12"/></circle>
   </g>
   <g transform="translate(435 52)">
-    <text x="0" y="0" fill="#d7b56e" font-family="Georgia,serif" font-size="22" letter-spacing="3">MACRO REGIME MAPPING</text>
-    <text x="0" y="32" fill="#71c9c2" font-family="monospace" font-size="12" letter-spacing="2">GLOBAL SYSTEMS · SCENARIO BRANCHES</text>
-    <text x="0" y="75" fill="#f1ead9" font-family="sans-serif" font-size="16">Global cycles, policy transmission,</text>
-    <text x="0" y="99" fill="#f1ead9" font-family="sans-serif" font-size="16">geopolitical signals, and cross-asset links.</text>
+    <text x="0" y="0" fill="#d7b56e" font-family="Georgia,serif" font-size="24" letter-spacing="3">MACRO REGIME MAPPING</text>
+    <text x="0" y="32" fill="#71c9c2" font-family="monospace" font-size="13" letter-spacing="2">GLOBAL SYSTEMS · SCENARIO BRANCHES</text>
+    <text x="0" y="75" fill="#f1ead9" font-family="sans-serif" font-size="17">Global cycles, policy transmission,</text>
+    <text x="0" y="99" fill="#f1ead9" font-family="sans-serif" font-size="17">geopolitical signals, and cross-asset links.</text>
     <path class="motion" d="M0 128H390" stroke="#d7b56e" stroke-width="1" stroke-dasharray="4 8" opacity=".6">
       <animate attributeName="stroke-dashoffset" from="0" to="-120" dur="8s" repeatCount="indefinite"/>
     </path>
