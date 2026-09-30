@@ -15,6 +15,18 @@ from generator.svg_builder import SVGBuilder
 logger = logging.getLogger(__name__)
 
 DEMO_STATS = {"commits": 1847, "stars": 342, "prs": 156, "issues": 89, "repos": 42}
+LIGHT_THEME = {
+    "void": "#f7f4ed",
+    "nebula": "#f7f4ed",
+    "star_dust": "#d8d0c1",
+    "synapse_cyan": "#1e7d80",
+    "dendrite_violet": "#684f99",
+    "axon_amber": "#916c32",
+    "text_bright": "#3b3430",
+    "text_dim": "#4b6166",
+    "text_faint": "#66737a",
+}
+
 DEMO_LANGUAGES = {
     "Python": 450000,
     "TypeScript": 380000,
@@ -93,10 +105,15 @@ def generate(args):
     output_dir = os.path.join(os.path.dirname(__file__), "..", "assets", "generated")
     os.makedirs(output_dir, exist_ok=True)
 
+    light_config = dict(config)
+    light_config["theme"] = {**config["theme"], **LIGHT_THEME}
+    light_builder = SVGBuilder(light_config, stats, languages)
+
     svgs = {
         "galaxy-header.svg": builder.render_galaxy_header(),
         "stats-card.svg": builder.render_stats_card(),
         "tech-stack.svg": builder.render_tech_stack(),
+        "tech-stack-light.svg": light_builder.render_tech_stack(),
         "projects-constellation.svg": builder.render_projects_constellation(),
     }
 
@@ -106,7 +123,7 @@ def generate(args):
             f.write(content)
         logger.info("Wrote %s", path)
 
-    logger.info("Done! 4 SVGs generated.")
+    logger.info("Done! 5 SVGs generated.")
 
 
 def main():
