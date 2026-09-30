@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+  <title id="title">Global macro system and scenario observatory</title>
+  <desc id="desc">A global systems map connecting policy, cycles, geopolitics, liquidity, cross-asset links, and scenario branches.</desc>
+  <style>
+    .motion { transform-box: fill-box; transform-origin: center; }
+    @media (prefers-reduced-motion: reduce) { .motion { display: none; } }
+  </style>
+  <rect x="5" y="5" width="890" height="250" rx="18" fill="#0b111c" stroke="#b08d57" stroke-width="2"/>
+  <rect x="15" y="15" width="870" height="230" rx="13" fill="none" stroke="#d7b56e" stroke-width="1" opacity=".55"/>
+  <g fill="none" stroke="#24343c" stroke-width="1" opacity=".8">
+    <ellipse cx="225" cy="130" rx="150" ry="88"/>
+    <ellipse cx="225" cy="130" rx="108" ry="88" transform="rotate(28 225 130)"/>
+    <ellipse cx="225" cy="130" rx="108" ry="88" transform="rotate(-28 225 130)"/>
+    <path d="M76 130H374M225 42V218"/>
+  </g>
+  <g class="motion" fill="none" stroke="#71c9c2" stroke-width="1.6" stroke-dasharray="4 9" opacity=".65">
+    <ellipse cx="225" cy="130" rx="150" ry="88" transform="rotate(-18 225 130)">
+      <animateTransform attributeName="transform" type="rotate" from="-18 225 130" to="342 225 130" dur="16s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  <circle cx="225" cy="130" r="35" fill="#101722" stroke="#d7b56e" stroke-width="1.5"/>
+  <circle class="motion" cx="225" cy="130" r="8" fill="#71c9c2" opacity=".7">
+    <animate attributeName="r" values="6;10;6" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".4;1;.4" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="225" y="126" text-anchor="middle" fill="#f1ead9" font-family="Georgia,serif" font-size="12" letter-spacing="2">GLOBAL</text>
+  <text x="225" y="143" text-anchor="middle" fill="#f1ead9" font-family="Georgia,serif" font-size="12" letter-spacing="2">SYSTEM</text>
+  <g fill="#d7b56e" stroke="#0b111c" stroke-width="3">
+    <circle cx="108" cy="78" r="6"/><circle cx="339" cy="82" r="6"/><circle cx="356" cy="176" r="6"/>
+    <circle cx="102" cy="180" r="6"/><circle cx="225" cy="47" r="6"/><circle cx="225" cy="213" r="6"/>
+  </g>
+  <g fill="#f1ead9" font-family="monospace" font-size="10" letter-spacing="1.2">
+    <text x="72" y="65">POLICY</text><text x="343" y="66">CYCLES</text>
+    <text x="365" y="194">LIQUIDITY</text><text x="45" y="199">GEOPOLITICS</text>
+    <text x="190" y="32">CROSS-ASSET</text><text x="205" y="238">SCENARIOS</text>
+  </g>
+  <g class="motion" fill="#71c9c2">
+    <circle cx="90" cy="118" r="3"><animateMotion dur="7s" repeatCount="indefinite" path="M0 0 C70 -65 150 -40 230 12"/></circle>
+    <circle cx="330" cy="140" r="3"><animateMotion dur="9s" repeatCount="indefinite" path="M0 0 C-70 55 -150 40 -230 -12"/></circle>
+  </g>
+  <g transform="translate(435 52)">
+    <text x="0" y="0" fill="#d7b56e" font-family="Georgia,serif" font-size="22" letter-spacing="3">MACRO REGIME MAPPING</text>
+    <text x="0" y="32" fill="#71c9c2" font-family="monospace" font-size="12" letter-spacing="2">GLOBAL SYSTEMS · SCENARIO BRANCHES</text>
+    <text x="0" y="75" fill="#f1ead9" font-family="sans-serif" font-size="16">Global cycles, policy transmission,</text>
+    <text x="0" y="99" fill="#f1ead9" font-family="sans-serif" font-size="16">geopolitical signals, and cross-asset links.</text>
+    <path class="motion" d="M0 128H390" stroke="#d7b56e" stroke-width="1" stroke-dasharray="4 8" opacity=".6">
+      <animate attributeName="stroke-dashoffset" from="0" to="-120" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <g fill="#9fb8b7" font-family="monospace" font-size="11">
+      <text x="0" y="160">BASE</text><text x="92" y="160">UPSIDE</text>
+      <text x="196" y="160">DOWNSIDE</text><text x="320" y="160">TAIL RISK</text>
+    </g>
+    <text x="0" y="193" fill="#6e8589" font-family="monospace" font-size="11">signals → transmission → scenarios → risk controls</text>
+  </g>
+</svg>

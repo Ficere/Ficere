@@ -1,19 +1,10 @@
 <p align="center">
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/hero-archive-animated-mobile.svg" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-archive-animated.svg" />
-  <source media="(max-width: 600px)" srcset="./assets/hero-archive-animated-mobile.svg" />
-  <img src="./assets/hero-archive-animated.svg" alt="A star chart machine processing a glowing protein structure" />
-</picture>
-</p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/capsule-hero-mobile.svg" />
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/capsule-hero-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/capsule-hero.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/capsule-hero-light.svg" />
-  <img width="100%" src="./assets/capsule-hero-light.svg" alt="AI times SynBio, protein design, and scientific systems" />
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/hero-archive-animated-mobile.svg" />
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/hero-archive-animated-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-archive-animated.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-archive-animated-light.svg" />
+  <img width="100%" src="./assets/hero-archive-animated.svg" alt="A star chart machine processing a glowing protein structure" />
 </picture>
 </p>
 
@@ -35,7 +26,7 @@ Public entry point: [SynAster Hub](https://syn-aster.bohrium.com/) — a protein
 </picture>
 </div>
 
-**Small public tools:** [Pipeline Assessment](https://github.com/Ficere/pipeline-assessment) for structured pipeline review · [DummyDocking](https://github.com/Ficere/DummyDocking) for inspectable docking workflows.
+Public tools: [Pipeline Assessment](https://github.com/Ficere/pipeline-assessment) for structured pipeline review · [DummyDocking](https://github.com/Ficere/DummyDocking) for inspectable docking workflows.
 
 ## 🌙 Night
 
@@ -51,33 +42,25 @@ Public entry point: [SynAster Hub](https://syn-aster.bohrium.com/) — a protein
 
 <a href="https://github.com/Ficere/macro-regime-mapping">
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/macro-regime-card-mobile.svg" />
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/macro-regime-card-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/macro-regime-card.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/macro-regime-card-light.svg" />
-  <img width="100%" src="./assets/macro-regime-card-light.svg" alt="Macro regime mapping side quest: signals, cycles, and structured outputs" />
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/macro-regime-observatory-mobile.svg" />
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/macro-regime-observatory-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/macro-regime-observatory.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/macro-regime-observatory-light.svg" />
+  <img width="100%" src="./assets/macro-regime-observatory-light.svg" alt="Global macro system with policy, cycles, geopolitics, liquidity, cross-asset links, and scenario branches" />
 </picture>
 </a>
 
-## ✦ Focus Constellation
+## ✦ Focus
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/tech-stack.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/generated/tech-stack-light.svg" />
-  <img width="100%" src="./assets/generated/tech-stack-light.svg" alt="Curated focus sectors for protein and enzyme design, atom-level tools, and wet-dry research systems" />
+  <img width="100%" src="./assets/generated/tech-stack-light.svg" alt="Qualitative capability radar for protein and enzyme design, frontier models, atom-level tools, and wet-dry R&amp;D systems" />
 </picture>
 </p>
 
 ## 🐍 Activity
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ficere/Ficere/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ficere/Ficere/output/github-contribution-grid-snake.svg" />
-  <img src="./assets/snake-fallback.svg" alt="Animated GitHub contribution snake" />
-</picture>
-</div>
 
 <p align="center">
 <picture>
@@ -87,7 +70,15 @@ Public entry point: [SynAster Hub](https://syn-aster.bohrium.com/) — a protein
 </picture>
 </p>
 
-The contribution observatory is refreshed daily by GitHub Actions and remains visible without opening a collapsed section.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ficere/Ficere/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ficere/Ficere/output/github-contribution-grid-snake.svg" />
+  <img src="./assets/snake-fallback.svg" alt="Animated GitHub contribution snake" />
+</picture>
+</p>
+
+The contribution observatory is refreshed by GitHub Actions; the native GitHub contribution graph remains available below the profile.
 
 ## Contact
 

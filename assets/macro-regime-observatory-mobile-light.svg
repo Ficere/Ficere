@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" role="img" aria-labelledby="title desc">
+  <title id="title">Global macro system and scenario observatory</title>
+  <desc id="desc">Global macro cycles, policy transmission, and scenario branches shown as an orbiting system.</desc>
+  <style>@media (prefers-reduced-motion: reduce) { .motion { display: none; } }</style>
+  <rect x="5" y="5" width="690" height="310" rx="18" fill="#f7f3eb" stroke="#b08d57" stroke-width="2"/>
+  <rect x="15" y="15" width="670" height="290" rx="13" fill="none" stroke="#d8c7a8" stroke-width="1"/>
+  <g fill="none" stroke="#d8d0c1" stroke-width="1">
+    <ellipse cx="350" cy="126" rx="205" ry="82"/>
+    <ellipse cx="350" cy="126" rx="150" ry="82" transform="rotate(24 350 126)"/>
+    <path d="M145 126H555M350 44V208"/>
+  </g>
+  <ellipse class="motion" cx="350" cy="126" rx="205" ry="82" fill="none" stroke="#287f82" stroke-width="1.5" stroke-dasharray="4 9">
+    <animateTransform attributeName="transform" type="rotate" from="0 350 126" to="360 350 126" dur="16s" repeatCount="indefinite"/>
+  </ellipse>
+  <circle cx="350" cy="126" r="34" fill="#f1ead9" stroke="#b08d57" stroke-width="1.5"/>
+  <circle class="motion" cx="350" cy="126" r="8" fill="#287f82" opacity=".7"><animate attributeName="r" values="6;10;6" dur="5s" repeatCount="indefinite"/></circle>
+  <text x="350" y="122" text-anchor="middle" fill="#3b3430" font-family="Georgia,serif" font-size="12" letter-spacing="2">GLOBAL</text>
+  <text x="350" y="139" text-anchor="middle" fill="#3b3430" font-family="Georgia,serif" font-size="12" letter-spacing="2">SYSTEM</text>
+  <g fill="#916c32" stroke="#f7f3eb" stroke-width="3">
+    <circle cx="178" cy="83" r="6"/><circle cx="520" cy="83" r="6"/><circle cx="520" cy="171" r="6"/>
+    <circle cx="178" cy="171" r="6"/><circle cx="350" cy="47" r="6"/><circle cx="350" cy="205" r="6"/>
+  </g>
+  <g fill="#4b4036" font-family="monospace" font-size="10" letter-spacing="1">
+    <text x="146" y="70">POLICY</text><text x="525" y="70">CYCLES</text>
+    <text x="526" y="190">LIQUIDITY</text><text x="102" y="190">GEOPOLITICS</text>
+    <text x="308" y="30">CROSS-ASSET</text><text x="328" y="230">SCENARIOS</text>
+  </g>
+  <g transform="translate(44 260)">
+    <text x="0" y="0" fill="#916c32" font-family="Georgia,serif" font-size="18" letter-spacing="2">MACRO REGIME MAPPING</text>
+    <text x="0" y="25" fill="#287f82" font-family="monospace" font-size="10" letter-spacing="1.5">GLOBAL SYSTEMS · SCENARIO BRANCHES</text>
+  </g>
+</svg>
