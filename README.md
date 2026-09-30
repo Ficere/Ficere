@@ -19,10 +19,10 @@ Public entry point: [SynAster Hub](https://syn-aster.bohrium.com/) — a protein
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/research-loop-mobile.svg" />
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/research-loop-mobile-light.svg" />
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/research-loop-editorial-mobile.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="./assets/research-loop.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/research-loop-light.svg" />
-  <img width="100%" src="./assets/research-loop-light.svg" alt="Research loop from hypothesis to design, evaluation, experiment, feedback, and the next cycle" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/research-loop-editorial.svg" />
+  <img width="100%" src="./assets/research-loop-editorial.svg" alt="Warm editorial model–experiment loop from data to build, test, and learn" />
 </picture>
 </div>
 
@@ -33,20 +33,20 @@ Public tools: [Pipeline Assessment](https://github.com/Ficere/pipeline-assessmen
 <a href="https://github.com/Ficere/tianji">
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/tianji-card-mobile.svg" />
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/tianji-card-mobile-light.svg" />
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/tianji-card-editorial-mobile.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="./assets/tianji-card.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/tianji-card-light.svg" />
-  <img width="100%" src="./assets/tianji-card-light.svg" alt="Tianji after-hours card: BaZi, but schema-validated" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/tianji-card-editorial.svg" />
+  <img width="100%" src="./assets/tianji-card-editorial.svg" alt="Tianji after-hours card: BaZi, but schema-validated" />
 </picture>
 </a>
 
 <a href="https://github.com/Ficere/macro-regime-mapping">
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/macro-regime-observatory-mobile.svg" />
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/macro-regime-observatory-mobile-light.svg" />
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/macro-regime-observatory-editorial-mobile.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="./assets/macro-regime-observatory.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/macro-regime-observatory-light.svg" />
-  <img width="100%" src="./assets/macro-regime-observatory-light.svg" alt="Global macro system with policy, cycles, geopolitics, liquidity, cross-asset links, and scenario branches" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/macro-regime-observatory-editorial.svg" />
+  <img width="100%" src="./assets/macro-regime-observatory-editorial.svg" alt="Global macro system with policy, cycles, geopolitics, liquidity, cross-asset links, and scenario branches" />
 </picture>
 </a>
 
@@ -55,8 +55,8 @@ Public tools: [Pipeline Assessment](https://github.com/Ficere/pipeline-assessmen
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/tech-stack.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/generated/tech-stack-light.svg" />
-  <img width="100%" src="./assets/generated/tech-stack-light.svg" alt="Qualitative capability radar for protein and enzyme design, frontier models, atom-level tools, and wet-dry R&amp;D systems" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/capability-map-editorial.svg" />
+  <img width="100%" src="./assets/capability-map-editorial.svg" alt="Qualitative capability map for protein and enzyme design, frontier models, atom-level tools, and wet-dry R&amp;D systems" />
 </picture>
 </p>
 
